@@ -11,13 +11,13 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'ProtAAPP',
+  tagline: 'Protege las Administraciones Públicas',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon_io/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
@@ -49,10 +49,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Facebook Project',
+        title: '         ',
         logo: {
           alt: 'My Facebook Project Logo',
-          src: 'img/logo.svg',
+          src: 'img/Logo_PROTAAPP.svg',
         },
         items: [
           {
@@ -64,8 +64,8 @@ const config = {
           {to: 'blog', label: 'Blog', position: 'left'},
           // Please keep GitHub link to the right for consistency.
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/',
+            label: 'Twitter',
             position: 'right',
           },
         ],
