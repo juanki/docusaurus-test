@@ -20,6 +20,9 @@ const config = {
   favicon: 'img/favicon_io/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+//  customFields: { 
+//    imagenes: 'img/europa.jpg'
+//  },
 
   presets: [
     [
